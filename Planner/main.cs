@@ -3,11 +3,6 @@ using System.Collections.Generic;
 using Planner;
 
 
-public class Plan
-{
-    public string Description { get; set; }
-    public double UnixTime { get; set; }
-}
 
 
 
