@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{E5732810-001B-49CA-A2C3-2AAC63BAFB1C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BLL", "BLL", "{0EB4B7A5-E588-4FD5-AA0B-9E7CC484FC42}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Console", "Console", "{35E15DB1-B148-45FB-B1E0-304CF67EA5C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{AB19ACA2-DD2A-4726-B3C1-40C924DACE92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AB19ACA2-DD2A-4726-B3C1-40C924DACE92} = {35E15DB1-B148-45FB-B1E0-304CF67EA5C2}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB19ACA2-DD2A-4726-B3C1-40C924DACE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB19ACA2-DD2A-4726-B3C1-40C924DACE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB19ACA2-DD2A-4726-B3C1-40C924DACE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB19ACA2-DD2A-4726-B3C1-40C924DACE92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
