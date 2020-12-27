@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/user/RiderProjects/planner2/ConsoleApp1/ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "/home/user/RiderProjects/planner2/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/home/user/RiderProjects/planner2/Planner/Planner.csproj",
+      "projectName": "Planner",
+      "projectPath": "/home/user/RiderProjects/planner2/Planner/Planner.csproj",
       "packagesPath": "/home/user/.nuget/packages/",
-      "outputPath": "/home/user/RiderProjects/planner2/ConsoleApp1/obj/",
+      "outputPath": "/home/user/RiderProjects/planner2/Planner/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/user/.nuget/NuGet/NuGet.Config"
